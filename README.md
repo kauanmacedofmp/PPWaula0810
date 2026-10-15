@@ -87,17 +87,6 @@ A identidade visual deve manter o contraste entre o fundo escuro, os textos clar
 
 A lista definitiva e as descrições dos serviços devem ser confirmadas com o cliente.
 
-## ✅ Checklist de entrega
-
-- [ ] Confirmar informações, serviços e diferenciais com o cliente.
-- [ ] Inserir a logo oficial e imagens adequadas.
-- [ ] Conferir a paleta de cores e a legibilidade.
-- [ ] Verificar a responsividade em celular e computador.
-- [ ] Testar links do WhatsApp e Instagram.
-- [ ] Otimizar imagens e metadados.
-- [ ] Revisar o conteúdo antes da publicação.
-- [ ] Definir domínio e responsável por futuras atualizações.
-
 ---
 
 **Projeto:** Landing page da GSC Estética Automotiva  
